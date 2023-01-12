@@ -1,2 +1,2 @@
-# Tutorial 4: Drawing Paths and Shapes - Landmarks
+# Tutorial 5: Animating Views and Transitions - Landmarks
 Built following the official Swift UI tutorial.
